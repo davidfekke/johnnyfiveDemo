@@ -13,7 +13,7 @@ board.on("ready", function() {
     // `type` defaults to standard servo.
     // For continuous rotation servos, override the default
     // by setting the `type` here
-    type: "continuous"
+    type: "standard"
   });
 
   this.repl.inject({
