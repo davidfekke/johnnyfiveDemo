@@ -9,6 +9,8 @@
   "author": "",
   "license": "Apache",
   "dependencies": {
-    "johnny-five": "^0.8.37"
+    "johnny-five": "^0.8.37",
+    "keypress": "^0.2.1",
+    "spark-io": "^0.6.1"
   }
 }
